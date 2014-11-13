@@ -26,3 +26,10 @@ $ npm run browser-test
 ```
 
 Then point your browser at [http://localhost:3000/](http://localhost:3000/).
+
+## Useful Links
+
+* [tape](https://github.com/substack/tape)
+* [tap-spec](https://github.com/scottcorgan/tap-spec)
+* [run-browser](https://github.com/ForbesLindesay/run-browser)
+* [browserify](http://browserify.org/)
